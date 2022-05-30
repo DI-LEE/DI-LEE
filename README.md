@@ -12,7 +12,8 @@
 
 ### 🐒NOW🐒
 
-- 🌱 Learning Data Science
+- 🌱 Learning Deep learning
+- ✏️ Accelerator and Data Path Research for DNN of Embedded Edge Devices
 - ✏️ Trying to study various programming languages
 
 ### 💓ENJOY💓
