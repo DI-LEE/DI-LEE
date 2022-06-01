@@ -12,7 +12,7 @@
 
 ### 🐒NOW🐒
 
-- 🌱 Learning Deep learning
+- 🌱 Learning deep learning
 - ✏️ Accelerator and Data Path Research for DNN of Embedded Edge Devices (Undergraduate researcher)
 - ✏️ Trying to study various programming languages
 
