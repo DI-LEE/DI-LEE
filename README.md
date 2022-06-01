@@ -13,7 +13,7 @@
 ### 🐒NOW🐒
 
 - 🌱 Learning Deep learning
-- ✏️ Accelerator and Data Path Research for DNN of Embedded Edge Devices
+- ✏️ Accelerator and Data Path Research for DNN of Embedded Edge Devices (Undergraduate researcher)
 - ✏️ Trying to study various programming languages
 
 ### 💓ENJOY💓
